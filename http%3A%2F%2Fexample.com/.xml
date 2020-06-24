@@ -9,7 +9,7 @@
     <con:parameters/>
     <con:request name="Request 1" id="ef48812e-7c8d-47be-898e-1de7b8a38809" mediaType="application/json">
       <con:settings/>
-      <con:endpoint>http://example.com</con:endpoint>
+      <con:endpoint>http://ya.ru</con:endpoint>
       <con:request/>
       <con:credentials>
         <con:authType>No Authorization</con:authType>
